@@ -1,15 +1,15 @@
-| Name  | Class   | Level | Background | Race    | Age | Height | Weight | Eyes  | Skin  | Hair | Birthday      | Year | Constellation |                | Party inventory                                      |
-| ----- | ------- | ----- | ---------- | ------- | --- | ------ | ------ | ----- | ----- | ---- | ------------- | ---- | ------------- |                | ---------------------------------------------------- |
-| Uthal | Fighter | 8     | Gladiator  | Goliath | 59  | 2.26m  | 142kg  | White | Stone | None | 5th of summer | 8028 | (Artisan god) |                | Statuette of god of daeath (transumation aura)       |
-                                                                                                                                                        | Twelve nullification stones                          |
-| Inspr. | Prof. | AC  | Init. | Spd. |                                                                                                                 | Ancient Ocrun pot                                    |
-| ------ | ----- | --- | ----- | ---- |                                                                                                                 | Ancient pottery shards                               |
-| 0      | +3    | 21  | +1    | 30   | (19 AC normally)                                                                                                | Ornate ancient sword handle (inlaid with gems)       |
-                                                                                                                                                        | Five ancient golden coins (Ingrimar)                 |
-| Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |                             | Ancient scrap metal                                  |
-| ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |                             | Drawing of truly ancient statue                      |
-| Strength     | 20 (+5) | X            |  | 80       | 80         | 00      | 6 d10 (8) | 272 kilograms     |            |                             |                                                      |
-| Dexterity    | 13 (+1) |              |                                                                                                               |                                                      |
+| Name  | Class   | Level | Background | Race    | Age | Height | Weight | Eyes  | Skin  | Hair | Birthday      | Year | Constellation |
+| ----- | ------- | ----- | ---------- | ------- | --- | ------ | ------ | ----- | ----- | ---- | ------------- | ---- | ------------- |
+| Uthal | Fighter | 8     | Gladiator  | Goliath | 59  | 2.26m  | 142kg  | White | Stone | None | 5th of summer | 8028 | (Artisan god) |
+
+| Inspr. | Prof. | AC  | Init. | Spd. |
+| ------ | ----- | --- | ----- | ---- |
+| 0      | +3    | 21  | +1    | 30   | (19 AC normally)
+
+| Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
+| ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
+| Strength     | 20 (+5) | X            |  | 80       | 80         | 00      | 6 d10 (8) | 272 kilograms     |            |
+| Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
 | Wisdom       | 11 (+0) |              |  | 0         | 0        |
@@ -28,7 +28,7 @@
 | Investigation   |       | +1   |  | Pickaxe                           | Str.      | 1d6 + Str Pi.              |
 | Medicine        |       | +0   |  | Longsword                         | Str.      | 1d8 + Str Sl. (1d10 vers.) |
 | Nature          |       | +1   |  | Pickaxe on a string               | Str.      | 1d4 + Str Pi. 20/50 ft.    |
-| Perception      | X     | +0   |
+| Perception      | X     | +0   |  | Mancatcher //
 | Performance     | X     | +1   |
 | Persuasion      |       | +1   |
 | Religion        |       | +1   | Name of scroll man: Lugo
@@ -40,12 +40,12 @@
 | --------------------------------------------- |  | ------------- |  | ----- | ------ |
 | Mithril-steel plate                           |  | Common        |  | CP.   | 5      |
 | Warhammer                                     |  | Giant         |  | SP.   | 8      |
-| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 10     |
-| Net                                           |  | All armor     |  | PP.   | 512    |
+| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 0      |
+| Net                                           |  | All armor     |  | PP.   | 603    |
 | Flute                                         |  | Shields       |
 | White monk garb                               |  | Disguise kit  |
 | Caltrop net                                   |  | Flute         |
-| Golden goblet                                 |  | Ocrûn (8 hrs) |
+| Golden goblet                                 |  | Ocrûn (basic) |
 | Platemail overcoat                            |  | Crystal forge | (basic understanding)
 | Snow shoes                                    |
 | Fancy purple shoes                            |
@@ -53,6 +53,8 @@
 | Cloak of Protection                           | (+1 to AC and saving throws)
 | 2 greater potions of healing 4d4+4            |
 | Copper ring with an orange spellstone (lvl 2) |
+| Ring of prestidigitation                      |
+| Ring of laser pointer (Range 150m, 500 ft.)   |
 
 | Spell class     | Cast ability | Spell DC. | Spell attack bonus |
 | --------------- | ------------ | --------- | ------------------ |
@@ -150,5 +152,5 @@
 | Set of keys of the mountain village mine                                                         |
 | Scrolls detailing construction of Mithril Giant                                                  |
 | Spare parts of Mithril Giant                                                                     |
-| Broken obelisk of Gallows tree --> show to Felcra (Has shards of phalectory crystal inside)      |
-| Local map pointing to interesting cave entrance (quest item for Falcra's request)                |
+| Book on ocrun for Goliath                                                                        |
+| Carved stone, looks like a nautilus, with inscriptions near the tentacles. Symbol of peace.      |
