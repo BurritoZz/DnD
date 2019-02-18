@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 80       | 80         | 00      | 6 d10 (8) | 272 kilograms     |            |
+| Strength     | 20 (+5) | X            |  | 80       | 80         | 00      | 8 d10 (8) | 272 kilograms     | 1          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -28,7 +28,7 @@
 | Investigation   |       | +1   |  | Pickaxe                           | Str.      | 1d6 + Str Pi.              |
 | Medicine        |       | +0   |  | Longsword                         | Str.      | 1d8 + Str Sl. (1d10 vers.) |
 | Nature          |       | +1   |  | Pickaxe on a string               | Str.      | 1d4 + Str Pi. 20/50 ft.    |
-| Perception      | X     | +0   |  | Mancatcher //
+| Perception      | X     | +0   |  | Mancatcher                        | Str.      | None +5 grap. 30/60 ft.    |
 | Performance     | X     | +1   |
 | Persuasion      |       | +1   |
 | Religion        |       | +1   | Name of scroll man: Lugo
@@ -40,13 +40,13 @@
 | --------------------------------------------- |  | ------------- |  | ----- | ------ |
 | Mithril-steel plate                           |  | Common        |  | CP.   | 5      |
 | Warhammer                                     |  | Giant         |  | SP.   | 8      |
-| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 0      |
-| Net                                           |  | All armor     |  | PP.   | 603    |
+| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 5      |
+| Net                                           |  | All armor     |  | PP.   | 606    |
 | Flute                                         |  | Shields       |
 | White monk garb                               |  | Disguise kit  |
 | Caltrop net                                   |  | Flute         |
 | Golden goblet                                 |  | Ocrûn (basic) |
-| Platemail overcoat                            |  | Crystal forge | (basic understanding)
+| Platemail overcoat                            |
 | Snow shoes                                    |
 | Fancy purple shoes                            |
 | Communication earring (range: 500 ft.)        |
@@ -55,6 +55,7 @@
 | Copper ring with an orange spellstone (lvl 2) |
 | Ring of prestidigitation                      |
 | Ring of laser pointer (Range 150m, 500 ft.)   |
+| Fine desert clothes                           |
 
 | Spell class     | Cast ability | Spell DC. | Spell attack bonus |
 | --------------- | ------------ | --------- | ------------------ |
@@ -64,7 +65,7 @@
 | ---------- | ---------- |
 | 0          | infinite   |
 | 1          | 4/4        |
-| 2          | 2/2(+1)    |
+| 2          | 3/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
 | ------------ | ------------ | -------- | ------- | ---------------------------------------- |  | --------------- | ------------ | -------- | ------------------------------------------------------------ |
@@ -125,7 +126,7 @@
 | tobacco pipe consisting of a hollow branch with a spoon at the end                               |
 | purple coat of arms with a star                                                                  |
 | 2 books with 'fanfiction' (The lusty sorceress is one of them)                                   |
-| 11 bottles with random creatures                                                                 |
+| 9 bottles with random creatures                                                                  |
 | Special pitons                                                                                   |
 | Boot tips                                                                                        |
 | Climbing Gloves                                                                                  |
@@ -154,3 +155,4 @@
 | Spare parts of Mithril Giant                                                                     |
 | Book on ocrun for Goliath                                                                        |
 | Carved stone, looks like a nautilus, with inscriptions near the tentacles. Symbol of peace.      |
+| Spicebox (Black pepper, saffron, nutmeg, cardamom)                                               |
