@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 80       | 80         | 00      | 8 d10 (8) | 272 kilograms     | 1          |
+| Strength     | 20 (+5) | X            |  | 80       | 60         | 12      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -39,9 +39,9 @@
 | Equipment                                     |  | Proficiencies |  | Money | Amount |
 | --------------------------------------------- |  | ------------- |  | ----- | ------ |
 | Mithril-steel plate                           |  | Common        |  | CP.   | 5      |
-| Warhammer                                     |  | Giant         |  | SP.   | 8      |
-| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 5      |
-| Net                                           |  | All armor     |  | PP.   | 606    |
+| Warhammer                                     |  | Giant         |  | SP.   | 3      |
+| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 2      |
+| Net                                           |  | All armor     |  | PP.   | 239    | (Spent 360 on plans)
 | Flute                                         |  | Shields       |
 | White monk garb                               |  | Disguise kit  |
 | Caltrop net                                   |  | Flute         |
@@ -64,8 +64,8 @@
 | Slot level | Uses/Total |
 | ---------- | ---------- |
 | 0          | infinite   |
-| 1          | 4/4        |
-| 2          | 3/2(+1)    |
+| 1          | 3/4        |
+| 2          | 2/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
 | ------------ | ------------ | -------- | ------- | ---------------------------------------- |  | --------------- | ------------ | -------- | ------------------------------------------------------------ |
@@ -83,12 +83,12 @@
 
 | Features & traits | Effect                                          | Uses | I have to watch out for the chaos that is coming.
 | ----------------- | ----------------------------------------------- | ---- |
-| Stone's endurance | 1d12 Dmg. reduction                             | 1/1  | youngest sister: Osog
+| Stone's endurance | 1d12 Dmg. reduction                             | 0/1  | youngest sister: Osog
 | Powerful build    | double carrying cap.                            |      | eldest brother: Juag
 | Mountain born     | used to high and cold climates                  |      | 2nd eldest brother: Gumroch
 | Fighting style    | Defense: +1 AC                                  |      | 2nd youngest brother: Doziar
 | Second wind       | 1d10 + LVL. Heal                                | 1/1  | youngest brother: Janvog
-| Action surge      | Extra action                                    | 1/1  |
+| Action surge      | Extra action                                    | 0/1  |
 | Eldritch Knight   | Spells                                          |      | Father: Uthal
 | Extra attack      | Attack twice during action                      |      | Mom: Ogi
 | Weapon bond       | Look up if relevant                             |      | Youngest son: Wato
@@ -110,10 +110,11 @@
 | 8 Torches                                                                                        |  | Mechanical golem hand |
 | Tinderbox                                                                                        |  | Treant                |
 | 140 days of rations                                                                              |  | Demon orc             |
-| Waterskin                                                                                        |  | Blade of ulneval      |
-| 200 ft. of hempen rope                                                                           |  | Twisted Giant         |
-|                                                                                                  |  | Defiler               |
-| Illithid pendant                                                                                 |  | Gwazir soldier        |
+| Waterskin       (2  litres)                                                                      |  | Blade of ulneval      |
+| Large waterskin (40 litres)                                                                      |  | Twisted Giant         |
+| 200 ft. of hempen rope                                                                           |  | Defiler               |
+| Apu the Camel with riding saddle and bags                                                        |  | Gwazir soldier        |
+| Illithid pendant                                                                                 |  | Rock golem            |
 | 3 Skeleton minotaur skulls                                                                       |
 | Intricate knot that nobody seems to know how to tie or untie (sailors believe it to be bad luck) |
 | Giant pile vines                                                                                 |
@@ -132,7 +133,7 @@
 | Climbing Gloves                                                                                  |
 | Climbing Harness                                                                                 |
 | Woodworking Tools                                                                                |
-| 3 drawers worth of Silver Cutlery                                                                |
+| 3 drawers worth of Silver Cutlery - 1 set                                                        |
 | 2 expensive sets of mens clothing                                                                |
 | head of commander                                                                                |
 | Bent bronze dagger                                                                               |
@@ -156,3 +157,6 @@
 | Book on ocrun for Goliath                                                                        |
 | Carved stone, looks like a nautilus, with inscriptions near the tentacles. Symbol of peace.      |
 | Spicebox (Black pepper, saffron, nutmeg, cardamom)                                               |
+| Four small bombs                                                                                 |
+| Copper urn with ancient desert writing                                                           |
+| Plans for Cannon, grenades and steam engine                                                      |
