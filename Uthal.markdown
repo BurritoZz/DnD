@@ -1,6 +1,6 @@
 | Name  | Class   | Level | Background | Race    | Age | Height | Weight | Eyes  | Skin  | Hair | Birthday      | Year | Constellation |
 | ----- | ------- | ----- | ---------- | ------- | --- | ------ | ------ | ----- | ----- | ---- | ------------- | ---- | ------------- |
-| Uthal | Fighter | 8     | Gladiator  | Goliath | 59  | 2.26m  | 142kg  | White | Stone | None | 5th of summer | 8028 | (Artisan god) |
+| Uthal | Fighter | 9     | Gladiator  | Goliath | 59  | 2.26m  | 142kg  | White | Stone | None | 5th of summer | 8028 | (Artisan god) |
 
 | Inspr. | Prof. | AC  | Init. | Spd. |
 | ------ | ----- | --- | ----- | ---- |
@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 80       | 60         | 12      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87       | 87         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -64,7 +64,7 @@
 | Slot level | Uses/Total |
 | ---------- | ---------- |
 | 0          | infinite   |
-| 1          | 3/4        |
+| 1          | 4/4        |
 | 2          | 2/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
@@ -83,12 +83,12 @@
 
 | Features & traits | Effect                                          | Uses | I have to watch out for the chaos that is coming.
 | ----------------- | ----------------------------------------------- | ---- |
-| Stone's endurance | 1d12 Dmg. reduction                             | 0/1  | youngest sister: Osog
+| Stone's endurance | 1d12 Dmg. reduction                             | 1/1  | youngest sister: Osog
 | Powerful build    | double carrying cap.                            |      | eldest brother: Juag
 | Mountain born     | used to high and cold climates                  |      | 2nd eldest brother: Gumroch
 | Fighting style    | Defense: +1 AC                                  |      | 2nd youngest brother: Doziar
 | Second wind       | 1d10 + LVL. Heal                                | 1/1  | youngest brother: Janvog
-| Action surge      | Extra action                                    | 0/1  |
+| Action surge      | Extra action                                    | 1/1  |
 | Eldritch Knight   | Spells                                          |      | Father: Uthal
 | Extra attack      | Attack twice during action                      |      | Mom: Ogi
 | Weapon bond       | Look up if relevant                             |      | Youngest son: Wato
@@ -99,7 +99,7 @@
 |                   | Used as damage d4 with unarmed strike           |      |
 |                   | Use bonus action to grapple on unarmed hit      |      | 1st wife: Xeos
 | War magic         | Cantrip on action -> attack on bonus action     |      | 2nd wife: Dibor
-                                                                               Adopted daughter: Lisa (12 years old) Training as Fighter
+| Indomitable       | Reroll a saving throw that you fail             | 1/1  | Adopted daughter: Lisa (12 years old) Training as Fighter
 
 | Inventory (Bag of holding)                                                                       |  | Grapple victims       |
 | ------------------------------------------------------------------------------------------------ |  | --------------------- |
