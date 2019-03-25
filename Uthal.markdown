@@ -4,11 +4,11 @@
 
 | Inspr. | Prof. | AC  | Init. | Spd. |
 | ------ | ----- | --- | ----- | ---- |
-| 0      | +3    | 21  | +1    | 30   | (19 AC normally)
+| 0      | +4    | 21  | +1    | 30   | (19 AC normally)
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 87       | 87         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87       | 26         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -39,9 +39,9 @@
 | Equipment                                     |  | Proficiencies |  | Money | Amount |
 | --------------------------------------------- |  | ------------- |  | ----- | ------ |
 | Mithril-steel plate                           |  | Common        |  | CP.   | 5      |
-| Warhammer                                     |  | Giant         |  | SP.   | 3      |
-| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 2      |
-| Net                                           |  | All armor     |  | PP.   | 239    | (Spent 360 on plans)
+| Warhammer                                     |  | Giant         |  | SP.   | 7      |
+| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 9      |
+| Net                                           |  | All armor     |  | PP.   | 238    | (Spent 360 on plans)
 | Flute                                         |  | Shields       |
 | White monk garb                               |  | Disguise kit  |
 | Caltrop net                                   |  | Flute         |
@@ -59,13 +59,13 @@
 
 | Spell class     | Cast ability | Spell DC. | Spell attack bonus |
 | --------------- | ------------ | --------- | ------------------ |
-| Eldritch Knight | Int          | 12        | +4                 |
+| Eldritch Knight | Int          | 12        | +5                 |
 
 | Slot level | Uses/Total |
 | ---------- | ---------- |
 | 0          | infinite   |
-| 1          | 4/4        |
-| 2          | 2/2(+1)    |
+| 1          | 2/4        |
+| 2          | 3/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
 | ------------ | ------------ | -------- | ------- | ---------------------------------------- |  | --------------- | ------------ | -------- | ------------------------------------------------------------ |
@@ -83,7 +83,7 @@
 
 | Features & traits | Effect                                          | Uses | I have to watch out for the chaos that is coming.
 | ----------------- | ----------------------------------------------- | ---- |
-| Stone's endurance | 1d12 Dmg. reduction                             | 1/1  | youngest sister: Osog
+| Stone's endurance | 1d12 Dmg. reduction                             | 0/1  | youngest sister: Osog
 | Powerful build    | double carrying cap.                            |      | eldest brother: Juag
 | Mountain born     | used to high and cold climates                  |      | 2nd eldest brother: Gumroch
 | Fighting style    | Defense: +1 AC                                  |      | 2nd youngest brother: Doziar
@@ -160,3 +160,6 @@
 | Four small bombs                                                                                 |
 | Copper urn with ancient desert writing                                                           |
 | Plans for Cannon, grenades and steam engine                                                      |
+| Majhul                                                                                           |
+| Mana golem residue                                                                               |
+| Metal canister (Bring to lord Nolwin in Dorevar)                                                 |
