@@ -4,11 +4,11 @@
 
 | Inspr. | Prof. | AC  | Init. | Spd. |
 | ------ | ----- | --- | ----- | ---- |
-| 0      | +4    | 21  | +1    | 30   | (19 AC normally)
+| 0      | +4    | 21  | +1    | 30   | (21 AC normally)
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 87       | 26         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87 (81)  | 44         | 09      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -39,7 +39,7 @@
 | Equipment                                     |  | Proficiencies |  | Money | Amount |
 | --------------------------------------------- |  | ------------- |  | ----- | ------ |
 | Mithril-steel plate                           |  | Common        |  | CP.   | 5      |
-| Warhammer                                     |  | Giant         |  | SP.   | 7      |
+| Warhammer                                     |  | Giant         |  | SP.   | 2      |
 | Shield (Lisa)                                 |  | All weapons   |  | GP.   | 9      |
 | Net                                           |  | All armor     |  | PP.   | 238    | (Spent 360 on plans)
 | Flute                                         |  | Shields       |
@@ -65,7 +65,7 @@
 | ---------- | ---------- |
 | 0          | infinite   |
 | 1          | 2/4        |
-| 2          | 3/2(+1)    |
+| 2          | 2/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
 | ------------ | ------------ | -------- | ------- | ---------------------------------------- |  | --------------- | ------------ | -------- | ------------------------------------------------------------ |
