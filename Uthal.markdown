@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 87 (81)  | 44         | 09      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87       | 33         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -59,13 +59,13 @@
 
 | Spell class     | Cast ability | Spell DC. | Spell attack bonus |
 | --------------- | ------------ | --------- | ------------------ |
-| Eldritch Knight | Int          | 12        | +5                 |
+| Eldritch Knight | Int          | 13        | +5                 |
 
 | Slot level | Uses/Total |
 | ---------- | ---------- |
 | 0          | infinite   |
-| 1          | 2/4        |
-| 2          | 2/2(+1)    |
+| 1          | 3/4        |
+| 2          | 3/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
 | ------------ | ------------ | -------- | ------- | ---------------------------------------- |  | --------------- | ------------ | -------- | ------------------------------------------------------------ |
@@ -83,12 +83,12 @@
 
 | Features & traits | Effect                                          | Uses | I have to watch out for the chaos that is coming.
 | ----------------- | ----------------------------------------------- | ---- |
-| Stone's endurance | 1d12 Dmg. reduction                             | 0/1  | youngest sister: Osog
+| Stone's endurance | 1d12 Dmg. reduction                             | 1/1  | youngest sister: Osog
 | Powerful build    | double carrying cap.                            |      | eldest brother: Juag
 | Mountain born     | used to high and cold climates                  |      | 2nd eldest brother: Gumroch
 | Fighting style    | Defense: +1 AC                                  |      | 2nd youngest brother: Doziar
-| Second wind       | 1d10 + LVL. Heal                                | 1/1  | youngest brother: Janvog
-| Action surge      | Extra action                                    | 1/1  |
+| Second wind       | 1d10 + LVL. Heal                                | 0/1  | youngest brother: Janvog
+| Action surge      | Extra action                                    | 0/1  |
 | Eldritch Knight   | Spells                                          |      | Father: Uthal
 | Extra attack      | Attack twice during action                      |      | Mom: Ogi
 | Weapon bond       | Look up if relevant                             |      | Youngest son: Wato
@@ -99,7 +99,7 @@
 |                   | Used as damage d4 with unarmed strike           |      |
 |                   | Use bonus action to grapple on unarmed hit      |      | 1st wife: Xeos
 | War magic         | Cantrip on action -> attack on bonus action     |      | 2nd wife: Dibor
-| Indomitable       | Reroll a saving throw that you fail             | 1/1  | Adopted daughter: Lisa (12 years old) Training as Fighter
+| Indomitable       | Reroll a saving throw that you fail             | 0/1  | Adopted daughter: Lisa (12 years old) Training as Fighter
 
 | Inventory (Bag of holding)                                                                       |  | Grapple victims       |
 | ------------------------------------------------------------------------------------------------ |  | --------------------- |
@@ -115,8 +115,8 @@
 | 200 ft. of hempen rope                                                                           |  | Defiler               |
 | Apu the Camel with riding saddle and bags                                                        |  | Gwazir soldier        |
 | Illithid pendant                                                                                 |  | Rock golem            |
-| 3 Skeleton minotaur skulls                                                                       |
-| Intricate knot that nobody seems to know how to tie or untie (sailors believe it to be bad luck) |
+| 3 Skeleton minotaur skulls                                                                       |  | Skeleton king         |
+| Intricate knot that nobody seems to know how to tie or untie (sailors believe it to be bad luck) |  | Skeleton lich         |
 | Giant pile vines                                                                                 |
 | Repaired teleport crystal (almost pristine)                                                      |
 | Tent                                                                                             |
@@ -163,3 +163,10 @@
 | Majhul                                                                                           |
 | Mana golem residue                                                                               |
 | Metal canister (Bring to lord Nolwin in Dorevar)                                                 |
+| Dread blade                                                                                      |
+| Two religious disks (20 gp worth)                                                                |
+| Golden crown (50 gp)                                                                             |
+| Skeleton hoard (2000 gp)                                                                         |
+| Skeleton lich staff (does cool stuff like activate circles)                                      |
+| Skeleton lich phalectory (empty)                                                                 |
+| Skeleton lich hoard (8000 gp)                                                                    |
