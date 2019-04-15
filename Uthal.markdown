@@ -4,22 +4,22 @@
 
 | Inspr. | Prof. | AC  | Init. | Spd. |
 | ------ | ----- | --- | ----- | ---- |
-| 0      | +4    | 21  | +1    | 30   | (21 AC normally)
+| 0      | +4    | 21  | +1    | 30   | (21 AC normally) (resistance to necrotic)
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 87       | 33         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87       | 42         | 09      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
 | Wisdom       | 11 (+0) |              |  | 0         | 0        |
 | Charisma     | 12 (+1) |              |
 
-| Skill           | Prof. | Mod. |  | Attack                            | Modifier  | Damage                     |  | Entertainer routines |
-| --------------- | ----- | ---- |  | --------------------------------- | --------- | -------------------------- |  | -------------------- |
-| Acrobatics      | X     | +1   |  | Unarmed                           | Str.      | 1d4 + Str. Bl.             |  | Actor                |
-| Animal Handling |       | +0   |  | Pointy Rib                        | Str.      | 1d4 + Str. Pi.             |  | Jester               |
-| Arcana          |       | +1   |  | Push Dagger                       | Str.      | 1d6 + Str. Pi. + 1d6 Force |  | Tumbler              |
+| Skill           | Prof. | Mod. |  | Attack                            | Modifier  | Damage                     |  | Usable items      | Uses |
+| --------------- | ----- | ---- |  | --------------------------------- | --------- | -------------------------- |  | ----------------- | ---- |
+| Acrobatics      | X     | +1   |  | Unarmed                           | Str.      | 1d4 + Str. Bl.             |  | Bag of camping    | inf  |
+| Animal Handling |       | +0   |  | Pointy Rib                        | Str.      | 1d4 + Str. Pi.             |  | Tan bag of tricks | 3/3  |
+| Arcana          |       | +1   |  | Push Dagger                       | Str.      | 1d6 + Str. Pi. + 1d6 Force |
 | Athletics       | X     | +5   |  | Naginata                          | Str.      | 1d6 + Str. Sl. + 1d6 Fire  |
 | Deception       |       | +1   |  | Grapple                           | Athletics | 0                          |
 | History         |       | +1   |  | Shove                             | Athletics | 0                          |
@@ -36,16 +36,16 @@
 | Stealth         |       | +1   |
 | Survival        |       | +0   | Passive perception: 14
 
-| Equipment                                     |  | Proficiencies |  | Money | Amount |
-| --------------------------------------------- |  | ------------- |  | ----- | ------ |
-| Mithril-steel plate                           |  | Common        |  | CP.   | 5      |
-| Warhammer                                     |  | Giant         |  | SP.   | 2      |
-| Shield (Lisa)                                 |  | All weapons   |  | GP.   | 9      |
-| Net                                           |  | All armor     |  | PP.   | 238    | (Spent 360 on plans)
-| Flute                                         |  | Shields       |
-| White monk garb                               |  | Disguise kit  |
-| Caltrop net                                   |  | Flute         |
-| Golden goblet                                 |  | Ocrûn (basic) |
+| Equipment                                     |  | Proficiencies |  | Bag of tricks creatures |  | Money | Amount |  | Bag of camping     |
+| --------------------------------------------- |  | ------------- |  | ----------------------- |  | ----- | ------ |  | ------------------ |
+| Mithril-steel plate of necrotic resistance    |  | Common        |  | 1 - Jackal              |  | CP.   | 11     |  | Houses 12 people   |
+| Warhammer                                     |  | Giant         |  | 2 - Ape                 |  | SP.   | 8      |  | Instantly expands  |
+| Shield (Lisa)                                 |  | All weapons   |  | 3 - Baboon              |  | GP.   | 75     |  | Casts alarm 60 ft. |
+| Net                                           |  | All armor     |  | 4 - Axebeak             |  | PP.   | 466    |
+| Flute                                         |  | Shields       |  | 5 - Black Bear          |
+| White monk garb                               |  | Disguise kit  |  | 6 - Giant Weasel        |
+| Caltrop net                                   |  | Flute         |  | 7 - Giant Hyena         |
+| Golden goblet                                 |  | Ocrûn (basic) |  | 8 - Tiger               |
 | Platemail overcoat                            |
 | Snow shoes                                    |
 | Fancy purple shoes                            |
@@ -56,6 +56,8 @@
 | Ring of prestidigitation                      |
 | Ring of laser pointer (Range 150m, 500 ft.)   |
 | Fine desert clothes                           |
+| Identification spectacles (adv. enchant ident)|
+| Tan bag of tricks (Spawns random creature)    |
 
 | Spell class     | Cast ability | Spell DC. | Spell attack bonus |
 | --------------- | ------------ | --------- | ------------------ |
@@ -83,7 +85,7 @@
 
 | Features & traits | Effect                                          | Uses | I have to watch out for the chaos that is coming.
 | ----------------- | ----------------------------------------------- | ---- |
-| Stone's endurance | 1d12 Dmg. reduction                             | 1/1  | youngest sister: Osog
+| Stone's endurance | 1d12 Dmg. reduction                             | 0/1  | youngest sister: Osog
 | Powerful build    | double carrying cap.                            |      | eldest brother: Juag
 | Mountain born     | used to high and cold climates                  |      | 2nd eldest brother: Gumroch
 | Fighting style    | Defense: +1 AC                                  |      | 2nd youngest brother: Doziar
@@ -99,13 +101,13 @@
 |                   | Used as damage d4 with unarmed strike           |      |
 |                   | Use bonus action to grapple on unarmed hit      |      | 1st wife: Xeos
 | War magic         | Cantrip on action -> attack on bonus action     |      | 2nd wife: Dibor
-| Indomitable       | Reroll a saving throw that you fail             | 0/1  | Adopted daughter: Lisa (12 years old) Training as Fighter
+| Indomitable       | Reroll a saving throw that you fail             | 1/1  | Adopted daughter: Lisa (12 years old) Training as Fighter
 
-| Inventory (Bag of holding)                                                                       |  | Grapple victims       |
-| ------------------------------------------------------------------------------------------------ |  | --------------------- |
-| Backpack                                                                                         |  | Dave                  |
-| Crowbar                                                                                          |  | Monk                  |
-| Hammer                                                                                           |  | Skeleton minotaur     |
+| Inventory (Bag of holding)                                                                       |  | Grapple victims       |  | Entertainer routines |
+| ------------------------------------------------------------------------------------------------ |  | --------------------- |  | -------------------- |
+| Backpack                                                                                         |  | Dave                  |  | Actor                |
+| Crowbar                                                                                          |  | Monk                  |  | Jester               |
+| Hammer                                                                                           |  | Skeleton minotaur     |  | Tumbler              |
 | 9 Pitons                                                                                         |  | Witch                 |
 | 8 Torches                                                                                        |  | Mechanical golem hand |
 | Tinderbox                                                                                        |  | Treant                |
@@ -119,11 +121,11 @@
 | Intricate knot that nobody seems to know how to tie or untie (sailors believe it to be bad luck) |  | Skeleton lich         |
 | Giant pile vines                                                                                 |
 | Repaired teleport crystal (almost pristine)                                                      |
-| Tent                                                                                             |
-| Orc chief totem                                                                                  |
-| Book on teleportation gateways (also called the mirrors)                                         |
-| Marked blade shard (gnole)                                                                       |
-| pouch of tobacco leaves                                                                          |
+| Tent                                                                                             |  | Party inventory                                                                                   |
+| Orc chief totem                                                                                  |  | --------------------------------------------------------------------------------------------------|
+| Book on teleportation gateways (also called the mirrors)                                         |  | Sword of flames (longsword 1d8/1d10 sl. + 1d8 fire or a 3-wide or 3-deep 2d6 fire sweep)          |
+| Marked blade shard (gnole)                                                                       |  | Shield of magma (5 uses, hurls a magma blob 2d6 fire + 2d6 blud DC 15 dex save, applies 1d6 burn) |
+| pouch of tobacco leaves                                                                          |  | Fiery plate armor (3 activations, adds 1d6 burn to any burn activation)                           |
 | tobacco pipe consisting of a hollow branch with a spoon at the end                               |
 | purple coat of arms with a star                                                                  |
 | 2 books with 'fanfiction' (The lusty sorceress is one of them)                                   |
@@ -162,11 +164,7 @@
 | Plans for Cannon, grenades and steam engine                                                      |
 | Majhul                                                                                           |
 | Mana golem residue                                                                               |
-| Metal canister (Bring to lord Nolwin in Dorevar)                                                 |
-| Dread blade                                                                                      |
-| Two religious disks (20 gp worth)                                                                |
-| Golden crown (50 gp)                                                                             |
-| Skeleton hoard (2000 gp)                                                                         |
+| Dread blade (longsword, deals extra 2d6 if target is negatively affected by a necromantic effect |
 | Skeleton lich staff (does cool stuff like activate circles)                                      |
 | Skeleton lich phalectory (empty)                                                                 |
-| Skeleton lich hoard (8000 gp)                                                                    |
+
