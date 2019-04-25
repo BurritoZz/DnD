@@ -4,60 +4,59 @@
 
 | Inspr. | Prof. | AC  | Init. | Spd. |
 | ------ | ----- | --- | ----- | ---- |
-| 0      | +4    | 21  | +1    | 30   | (21 AC normally) (resistance to necrotic)
+| 0      | +4    | 22  | +1    | 30   | (22 AC normally)
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 87       | 42         | 09      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87       | 82         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
 | Wisdom       | 11 (+0) |              |  | 0         | 0        |
 | Charisma     | 12 (+1) |              |
 
-| Skill           | Prof. | Mod. |  | Attack                            | Modifier  | Damage                     |  | Usable items      | Uses |
-| --------------- | ----- | ---- |  | --------------------------------- | --------- | -------------------------- |  | ----------------- | ---- |
-| Acrobatics      | X     | +1   |  | Unarmed                           | Str.      | 1d4 + Str. Bl.             |  | Bag of camping    | inf  |
-| Animal Handling |       | +0   |  | Pointy Rib                        | Str.      | 1d4 + Str. Pi.             |  | Tan bag of tricks | 3/3  |
-| Arcana          |       | +1   |  | Push Dagger                       | Str.      | 1d6 + Str. Pi. + 1d6 Force |
-| Athletics       | X     | +5   |  | Naginata                          | Str.      | 1d6 + Str. Sl. + 1d6 Fire  |
-| Deception       |       | +1   |  | Grapple                           | Athletics | 0                          |
-| History         |       | +1   |  | Shove                             | Athletics | 0                          |
-| Insight         |       | +1   |  | Bladed gauntlets of the doavak +1 | Str.      | 1d8 + Str Pi. + 2d6 Nec.   | Necrotic damage gained as TempHP
-| Intimidation    | X     | +1   |  | Spear                             | Str.      | 1d6 + Str Pi. (1d8 vers.)  |
-| Investigation   |       | +1   |  | Pickaxe                           | Str.      | 1d6 + Str Pi.              |
-| Medicine        |       | +0   |  | Longsword                         | Str.      | 1d8 + Str Sl. (1d10 vers.) |
-| Nature          |       | +1   |  | Pickaxe on a string               | Str.      | 1d4 + Str Pi. 20/50 ft.    |
-| Perception      | X     | +0   |  | Mancatcher                        | Str.      | None +5 grap. 30/60 ft.    |
-| Performance     | X     | +1   |
-| Persuasion      |       | +1   |
-| Religion        |       | +1   | Name of scroll man: Lugo
+| Skill           | Prof. | Mod. |  | Attack                            | Modifier  | Damage                          | Extra effects                                         |  | Usable items      | Uses |
+| --------------- | ----- | ---- |  | --------------------------------- | --------- | ------------------------------- | ----------------------------------------------------- |  | ----------------- | ---- |
+| Acrobatics      | X     | +1   |  | Unarmed                           | Str.      | 1d4 + Str. Bl.                  | N/A                                                   |  | Bag of camping    | inf  |
+| Animal Handling |       | +0   |  | Pointy Rib                        | Str.      | 1d4 + Str. Pi.                  | N/A                                                   |  | Tan bag of tricks | 3/3  |
+| Arcana          |       | +1   |  | Push Dagger                       | Str.      | 1d6 + Str. Pi. + 1d6 Force      | N/A                                                   |
+| Athletics       | X     | +5   |  | Naginata                          | Str.      | 1d6 + Str. Sl. + 1d6 Fire       | N/A                                                   |
+| Deception       |       | +1   |  | Grapple                           | Athletics | 0                               | N/A                                                   |
+| History         |       | +1   |  | Shove                             | Athletics | 0                               | N/A                                                   |
+| Insight         |       | +1   |  | Bladed gauntlets of the doavak +1 | Str.      | 1d8 + Str Pi. + 2d6 Nec.        | Necrotic damage gained as TempHP                      |
+| Intimidation    | X     | +1   |  | Spear                             | Str.      | 1d6 + Str Pi. (1d8 vers.)       | N/A                                                   |
+| Investigation   |       | +1   |  | Pickaxe                           | Str.      | 1d6 + Str Pi.                   | N/A                                                   |
+| Medicine        |       | +0   |  | Longsword                         | Str.      | 1d8 + Str Sl. (1d10 vers.)      | N/A                                                   |
+| Nature          |       | +1   |  | Pickaxe on a string               | Str.      | 1d4 + Str Pi. 20/50 ft.         | N/A                                                   |
+| Perception      | X     | +0   |  | Mancatcher                        | Str.      | None +5 grap. 30/60 ft.         | N/A                                                   |
+| Performance     | X     | +1   |  | Sword of Flames                   | Str.      | 1d8 + Str Sl. + 1d8 Fire        | Alternate attack: 15 ft. wide or 15 ft. deep 2d6 Fire |
+| Persuasion      |       | +1   |  | Shield of Magma                   | N/A       | 2d6 Blud. + 2d6 Fire + 1d6 Burn | 3/3 uses; DC 15 dex save                              |
+| Religion        |       | +1   |
 | Sleight of Hand |       | +1   |
 | Stealth         |       | +1   |
 | Survival        |       | +0   | Passive perception: 14
 
-| Equipment                                     |  | Proficiencies |  | Bag of tricks creatures |  | Money | Amount |  | Bag of camping     |
-| --------------------------------------------- |  | ------------- |  | ----------------------- |  | ----- | ------ |  | ------------------ |
-| Mithril-steel plate of necrotic resistance    |  | Common        |  | 1 - Jackal              |  | CP.   | 11     |  | Houses 12 people   |
-| Warhammer                                     |  | Giant         |  | 2 - Ape                 |  | SP.   | 8      |  | Instantly expands  |
-| Shield (Lisa)                                 |  | All weapons   |  | 3 - Baboon              |  | GP.   | 75     |  | Casts alarm 60 ft. |
-| Net                                           |  | All armor     |  | 4 - Axebeak             |  | PP.   | 466    |
-| Flute                                         |  | Shields       |  | 5 - Black Bear          |
-| White monk garb                               |  | Disguise kit  |  | 6 - Giant Weasel        |
-| Caltrop net                                   |  | Flute         |  | 7 - Giant Hyena         |
-| Golden goblet                                 |  | Ocrûn (basic) |  | 8 - Tiger               |
-| Platemail overcoat                            |
-| Snow shoes                                    |
-| Fancy purple shoes                            |
-| Communication earring (range: 500 ft.)        |
-| Cloak of Protection                           | (+1 to AC and saving throws)
-| 2 greater potions of healing 4d4+4            |
-| Copper ring with an orange spellstone (lvl 2) |
-| Ring of prestidigitation                      |
-| Ring of laser pointer (Range 150m, 500 ft.)   |
-| Fine desert clothes                           |
-| Identification spectacles (adv. enchant ident)|
-| Tan bag of tricks (Spawns random creature)    |
+| Equipment                                                          |  | Proficiencies |  | Bag of tricks creatures |  | Money | Amount |  | Bag of camping     |
+| ------------------------------------------------------------------ |  | ------------- |  | ----------------------- |  | ----- | ------ |  | ------------------ |
+| Fiery plate armor (3/3 uses; adds 1d6 burn to any burn activation) |  | Common        |  | 1 - Jackal              |  | CP.   | 3      |  | Houses 12 people   |
+| Warhammer                                                          |  | Giant         |  | 2 - Ape                 |  | SP.   | 8      |  | Instantly expands  |
+| Tan bag of tricks (Spawns random creature)                         |  | All weapons   |  | 3 - Baboon              |  | GP.   | 65     |  | Casts alarm 60 ft. |
+| Net                                                                |  | All armor     |  | 4 - Axebeak             |  | PP.   | 466    |
+| Flute                                                              |  | Shields       |  | 5 - Black Bear          |
+| White monk garb                                                    |  | Disguise kit  |  | 6 - Giant Weasel        |
+| Caltrop net                                                        |  | Flute         |  | 7 - Giant Hyena         |
+| Golden goblet                                                      |  | Ocrûn (basic) |  | 8 - Tiger               |
+| Platemail overcoat                                                 |
+| Snow shoes                                                         |
+| Fancy purple shoes                                                 |
+| Communication earring (range: 500 ft.)                             |
+| Cloak of Protection (+1 to AC and saving throws)                   |
+| 2 greater potions of healing 4d4+4                                 |
+| Copper ring with an orange spellstone (lvl 2)                      |
+| Ring of prestidigitation                                           |
+| Ring of laser pointer (Range 150m, 500 ft.)                        |
+| Fine desert clothes                                                |
+| Identification spectacles (adv. enchantment identification)        |
 
 | Spell class     | Cast ability | Spell DC. | Spell attack bonus |
 | --------------- | ------------ | --------- | ------------------ |
@@ -85,12 +84,12 @@
 
 | Features & traits | Effect                                          | Uses | I have to watch out for the chaos that is coming.
 | ----------------- | ----------------------------------------------- | ---- |
-| Stone's endurance | 1d12 Dmg. reduction                             | 0/1  | youngest sister: Osog
+| Stone's endurance | 1d12 Dmg. reduction                             | 1/1  | youngest sister: Osog
 | Powerful build    | double carrying cap.                            |      | eldest brother: Juag
 | Mountain born     | used to high and cold climates                  |      | 2nd eldest brother: Gumroch
 | Fighting style    | Defense: +1 AC                                  |      | 2nd youngest brother: Doziar
-| Second wind       | 1d10 + LVL. Heal                                | 0/1  | youngest brother: Janvog
-| Action surge      | Extra action                                    | 0/1  |
+| Second wind       | 1d10 + LVL. Heal                                | 1/1  | youngest brother: Janvog
+| Action surge      | Extra action                                    | 1/1  |
 | Eldritch Knight   | Spells                                          |      | Father: Uthal
 | Extra attack      | Attack twice during action                      |      | Mom: Ogi
 | Weapon bond       | Look up if relevant                             |      | Youngest son: Wato
@@ -121,11 +120,11 @@
 | Intricate knot that nobody seems to know how to tie or untie (sailors believe it to be bad luck) |  | Skeleton lich         |
 | Giant pile vines                                                                                 |
 | Repaired teleport crystal (almost pristine)                                                      |
-| Tent                                                                                             |  | Party inventory                                                                                   |
-| Orc chief totem                                                                                  |  | --------------------------------------------------------------------------------------------------|
-| Book on teleportation gateways (also called the mirrors)                                         |  | Sword of flames (longsword 1d8/1d10 sl. + 1d8 fire or a 3-wide or 3-deep 2d6 fire sweep)          |
-| Marked blade shard (gnole)                                                                       |  | Shield of magma (5 uses, hurls a magma blob 2d6 fire + 2d6 blud DC 15 dex save, applies 1d6 burn) |
-| pouch of tobacco leaves                                                                          |  | Fiery plate armor (3 activations, adds 1d6 burn to any burn activation)                           |
+| Tent                                                                                             |
+| Orc chief totem                                                                                  |
+| Book on teleportation gateways (also called the mirrors)                                         |
+| Marked blade shard (gnole)                                                                       |
+| pouch of tobacco leaves                                                                          |
 | tobacco pipe consisting of a hollow branch with a spoon at the end                               |
 | purple coat of arms with a star                                                                  |
 | 2 books with 'fanfiction' (The lusty sorceress is one of them)                                   |
@@ -161,10 +160,9 @@
 | Spicebox (Black pepper, saffron, nutmeg, cardamom)                                               |
 | Four small bombs                                                                                 |
 | Copper urn with ancient desert writing                                                           |
-| Plans for Cannon, grenades and steam engine                                                      |
 | Majhul                                                                                           |
 | Mana golem residue                                                                               |
 | Dread blade (longsword, deals extra 2d6 if target is negatively affected by a necromantic effect |
 | Skeleton lich staff (does cool stuff like activate circles)                                      |
-| Skeleton lich phalectory (empty)                                                                 |
-
+| Skeleton lich phylectory (empty)                                                                 |
+| Minor phylectory 3x                                                                             |
