@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice  | Carrying capacity | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | --------- | ----------------- | ---------- |
-| Strength     | 20 (+5) | X            |  | 87       | 82         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
+| Strength     | 20 (+5) | X            |  | 87       | 35         | 00      | 8 d10 (8) | 272 kilograms     | 0          |
 | Dexterity    | 13 (+1) |              |
 | Constitution | 20 (+5) | X            |  | Successes | Failures |
 | Intelligence | 13 (+1) |              |  | --------- | -------- |
@@ -30,7 +30,7 @@
 | Nature          |       | +1   |  | Pickaxe on a string               | Str.      | 1d4 + Str Pi. 20/50 ft.         | N/A                                                   |
 | Perception      | X     | +0   |  | Mancatcher                        | Str.      | None +5 grap. 30/60 ft.         | N/A                                                   |
 | Performance     | X     | +1   |  | Sword of Flames                   | Str.      | 1d8 + Str Sl. + 1d8 Fire        | Alternate attack: 15 ft. wide or 15 ft. deep 2d6 Fire |
-| Persuasion      |       | +1   |  | Shield of Magma                   | N/A       | 2d6 Blud. + 2d6 Fire + 1d6 Burn | 3/3 uses; DC 15 dex save                              |
+| Persuasion      |       | +1   |  | Shield of Magma                   | N/A       | 2d6 Blud. + 2d6 Fire + 1d6 Burn | 2/3 uses; DC 15 dex save                              |
 | Religion        |       | +1   |
 | Sleight of Hand |       | +1   |
 | Stealth         |       | +1   |
@@ -38,9 +38,9 @@
 
 | Equipment                                                          |  | Proficiencies |  | Bag of tricks creatures |  | Money | Amount |  | Bag of camping     |
 | ------------------------------------------------------------------ |  | ------------- |  | ----------------------- |  | ----- | ------ |  | ------------------ |
-| Fiery plate armor (3/3 uses; adds 1d6 burn to any burn activation) |  | Common        |  | 1 - Jackal              |  | CP.   | 3      |  | Houses 12 people   |
+| Fiery plate armor (2/3 uses; adds 1d6 burn to any burn activation) |  | Common        |  | 1 - Jackal              |  | CP.   | 3      |  | Houses 12 people   |
 | Warhammer                                                          |  | Giant         |  | 2 - Ape                 |  | SP.   | 8      |  | Instantly expands  |
-| Tan bag of tricks (Spawns random creature)                         |  | All weapons   |  | 3 - Baboon              |  | GP.   | 65     |  | Casts alarm 60 ft. |
+| Tan bag of tricks (Spawns random creature)                         |  | All weapons   |  | 3 - Baboon              |  | GP.   | 67     |  | Casts alarm 60 ft. |
 | Net                                                                |  | All armor     |  | 4 - Axebeak             |  | PP.   | 466    |
 | Flute                                                              |  | Shields       |  | 5 - Black Bear          |
 | White monk garb                                                    |  | Disguise kit  |  | 6 - Giant Weasel        |
@@ -65,7 +65,7 @@
 | Slot level | Uses/Total |
 | ---------- | ---------- |
 | 0          | infinite   |
-| 1          | 3/4        |
+| 1          | 2/4        |
 | 2          | 3/2(+1)    |
 
 | Cantrip      | Casting time | Duration | Range   | Effect                                   |  | Level 1         | Casting time | Duration | Effect                                                       |
@@ -165,4 +165,7 @@
 | Dread blade (longsword, deals extra 2d6 if target is negatively affected by a necromantic effect |
 | Skeleton lich staff (does cool stuff like activate circles)                                      |
 | Skeleton lich phylectory (empty)                                                                 |
-| Minor phylectory 3x                                                                             |
+| Minor phylectory 3x                                                                              |
+| Strange metal box                                                                                |
+| Golden sphere key                                                                                |
+| Large strange burnt sphere                                                                       |
