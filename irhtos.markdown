@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice   | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | ---------- | ---------- |
-| Strength     | 12 (+1) | X            |  | 90       | 59         | 05      | 10 d8 (10) | 0          |
+| Strength     | 12 (+1) | X            |  | 90       | 31         | 00      | 10 d8 (10) | 0          |
 | Dexterity    | 20 (+5) | X            |
 | Constitution | 18 (+4) |              |  | Successes | Failures |
 | Intelligence | 11 (+0) |              |  | --------- | -------- |
@@ -21,7 +21,7 @@
 | Animal Handling |       | +4   |  | Bite                              | Str.      | 1d6 + Str. Pi.                  | N/A                                                                          |        |
 | Arcana          |       | +0   |  | Shortsword                        | Dex.      | 1d6 + Dex. Sl.                  | N/A                                                                          |        |
 | Athletics       |       | +1   |  | Dart                              | Dex.      | 1d4 + Dex. Pi. 20/60 ft.        | N/A                                                                          |        |
-| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex.      | 1d6 + Dex. Bl.                  | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 8/8    |
+| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex.      | 1d6 + Dex. Bl.                  | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 4/8    |
 | History         |       | +0   |
 | Insight         | X     | +4   |
 | Intimidation    |       | +2   |
@@ -49,7 +49,7 @@
 
 | Ki points | Ki save DC. |
 | --------- | ----------- |
-| 9/10      | 16          |
+| 07/10     | 16          |
 
 
 | Ki features      | Ki cost | When              | Effect                                                     |
@@ -75,9 +75,9 @@
 | ------------------------------------------------------------------------------------------------ |  | ------------------------------- |
 | Bedroll                                                                                          |  | Wine (10 litres)                |
 | Mess kit                                                                                         |  | Ale  (10 litres)                |
-| Tinderbox                                                                                        |  | Fine Goliath Beer (53.5 Litres) |
-| 10 torches                                                                                       |  | Fine Dubanur Beer (60 Litres)   |
-| 10 days of rations                                                                               |
+| Tinderbox                                                                                        |  | Fine Goliath Beer (52.5 Litres) |
+| 10 torches                                                                                       |  | Fine Dubanur Beer (59 Litres)   |
+| 10 days of rations                                                                               |  | Pure alcohol (30 Litres)        |
 | Waterskin                                                                                        |
 | 50 feet of hempen rope                                                                           |
 | Brewers' supplies                                                                                |
