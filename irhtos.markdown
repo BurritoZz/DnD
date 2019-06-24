@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice   | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | ---------- | ---------- |
-| Strength     | 12 (+1) | X            |  | 90       | 31         | 00      | 10 d8 (10) | 0          |
+| Strength     | 12 (+1) | X            |  | 90       | 69         | 00      | 10 d8 (10) | 0          |
 | Dexterity    | 20 (+5) | X            |
 | Constitution | 18 (+4) |              |  | Successes | Failures |
 | Intelligence | 11 (+0) |              |  | --------- | -------- |
@@ -21,7 +21,7 @@
 | Animal Handling |       | +4   |  | Bite                              | Str.      | 1d6 + Str. Pi.                  | N/A                                                                          |        |
 | Arcana          |       | +0   |  | Shortsword                        | Dex.      | 1d6 + Dex. Sl.                  | N/A                                                                          |        |
 | Athletics       |       | +1   |  | Dart                              | Dex.      | 1d4 + Dex. Pi. 20/60 ft.        | N/A                                                                          |        |
-| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex.      | 1d6 + Dex. Bl.                  | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 4/8    |
+| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex.      | 1d6 + Dex. Bl.                  | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 1/8    |
 | History         |       | +0   |
 | Insight         | X     | +4   |
 | Intimidation    |       | +2   |
@@ -49,7 +49,7 @@
 
 | Ki points | Ki save DC. |
 | --------- | ----------- |
-| 07/10     | 16          |
+| 05/10     | 16          |
 
 
 | Ki features      | Ki cost | When              | Effect                                                     |
@@ -71,17 +71,19 @@
 | Leap to Your Feet    | When you're prone, spend 5 ft. to stand up                                 |       |
 | Feeding Frenzy       | Using bonus action, make bite attack, gaining tempHP equal to CON modifier | 1/1   |
 
-| Inventory                                                                                        |  | Keg of holding                  |
-| ------------------------------------------------------------------------------------------------ |  | ------------------------------- |
-| Bedroll                                                                                          |  | Wine (10 litres)                |
-| Mess kit                                                                                         |  | Ale  (10 litres)                |
-| Tinderbox                                                                                        |  | Fine Goliath Beer (52.5 Litres) |
-| 10 torches                                                                                       |  | Fine Dubanur Beer (59 Litres)   |
-| 10 days of rations                                                                               |  | Pure alcohol (30 Litres)        |
-| Waterskin                                                                                        |
-| 50 feet of hempen rope                                                                           |
-| Brewers' supplies                                                                                |
-| Gems (200 gp worth)                                                                              |
-| Warm clothing                                                                                    |
-| 30 rations of human meat                                                                         |
-| Black book (Falcra wanted it, it is actually a book on pies, but I don't know this)              |
+| Inventory                                                                                         |  | Keg of holding                  |
+| ------------------------------------------------------------------------------------------------- |  | ------------------------------- |
+| Bedroll                                                                                           |  | Wine (10 litres)                |
+| Mess kit                                                                                          |  | Ale  (10 litres)                |
+| Tinderbox                                                                                         |  | Fine Goliath Beer (52.5 Litres) |
+| 10 torches                                                                                        |  | Fine Dubanur Beer (58.5 Litres) |
+| 10 days of rations                                                                                |  | Pure alcohol (30 Litres)        |
+| Waterskin                                                                                         |
+| 50 feet of hempen rope                                                                            |
+| Brewers' supplies                                                                                 |
+| Gems (200 gp worth)                                                                               |
+| Warm clothing                                                                                     |
+| 22 rations of human meat                                                                          |
+| Black book (Falcra wanted it, but it seems to be the wrong colour black) *It's a pie recipe book* |
+| 7 new black books                                                                                 |
+| Gold silvery important looking book                                                               |
