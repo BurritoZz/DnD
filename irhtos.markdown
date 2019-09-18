@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice   | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | ---------- | ---------- |
-| Strength     | 12 (+1) | X            |  | 90       | 26         | 00      | 10 d8 (10) | 0          |
+| Strength     | 12 (+1) | X            |  | 90       | 90         | 00      | 10 d8 (10) | 0          |
 | Dexterity    | 20 (+5) | X            |
 | Constitution | 18 (+4) |              |  | Successes | Failures |
 | Intelligence | 11 (+0) |              |  | --------- | -------- |
@@ -38,7 +38,7 @@
 
 | Equipment                    |  | Proficiencies        |  | Money | Amount |
 | ---------------------------- |  | -------------------- |  | ----- | ------ |
-| Shortsword                   |  | Common (Cannot read) |  | CP.   | 02     |
+| Shortsword                   |  | Common (Cannot read) |  | CP.   | 00     |
 | 10 darts                     |  | Draconic             |  | SP.   | 03     |
 | "Fire and Ice" Brass knucles |  | Simple weapons       |  | GP.   | 17     |
 |                              |  | Shortswords          |  | PP.   | 344    |
@@ -49,7 +49,7 @@
 
 | Ki points | Ki save DC. |
 | --------- | ----------- |
-| 09/10     | 16          |
+| 10/10     | 16          |
 
 | Ki features      | Ki cost | When              | Effect                                                     |
 | ---------------- | ------- | ----------------- | ---------------------------------------------------------- |
