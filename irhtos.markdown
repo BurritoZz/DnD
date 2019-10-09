@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice   | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | ---------- | ---------- |
-| Strength     | 12 (+1) | X            |  | 90       | 73         | 00      | 10 d8 (10) | 0          |
+| Strength     | 12 (+1) | X            |  | 90       | 76         | 00      | 10 d8 (10) | 0          |
 | Dexterity    | 20 (+5) | X            |
 | Constitution | 18 (+4) |              |  | Successes | Failures |
 | Intelligence | 11 (+0) |              |  | --------- | -------- |
@@ -21,7 +21,7 @@
 | Animal Handling |       | +4   |  | Bite                              | Str.      | 1d6 + Str. Pi.                  | N/A                                                                          |        |
 | Arcana          |       | +0   |  | Shortsword                        | Dex.      | 1d6 + Dex. Sl.                  | N/A                                                                          |        |
 | Athletics       |       | +1   |  | Dart                              | Dex.      | 1d4 + Dex. Pi. 20/60 ft.        | N/A                                                                          |        |
-| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex.      | 1d6 + Dex. Bl.                  | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 8/8    |
+| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex.      | 1d6 + Dex. Bl.                  | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 4/8    |
 | History         |       | +0   |
 | Insight         | X     | +4   |
 | Intimidation    |       | +2   |
@@ -38,9 +38,9 @@
 
 | Equipment                    |  | Proficiencies        |  | Money | Amount |
 | ---------------------------- |  | -------------------- |  | ----- | ------ |
-| Shortsword                   |  | Common (Cannot read) |  | CP.   | 00     |
-| 10 darts                     |  | Draconic             |  | SP.   | 01     |
-| "Fire and Ice" Brass knucles |  | Simple weapons       |  | GP.   | 36     |
+| Shortsword                   |  | Common (Cannot read) |  | CP.   | 08     |
+| 10 darts                     |  | Draconic             |  | SP.   | 05     |
+| "Fire and Ice" Brass knucles |  | Simple weapons       |  | GP.   | 48     |
 |                              |  | Shortswords          |  | PP.   | 349    |
 |                              |  | Thieves' tools       |
 |                              |  | Disguise kit         |
@@ -49,7 +49,7 @@
 
 | Ki points | Ki save DC. |
 | --------- | ----------- |
-| 10/10     | 16          |
+| 06/10     | 16          |
 
 | Ki features      | Ki cost | When              | Effect                                                     |
 | ---------------- | ------- | ----------------- | ---------------------------------------------------------- |
@@ -92,3 +92,6 @@
 | Ripped pants                                                                                      |
 | Toga                                                                                              |
 | 8 green gemstones                                                                                 |
+| Brass trumpet                                                                                     |
+| Fancy messenger crop-top                                                                          |
+| Fancy messenger pants (more like underwear)                                                       |
