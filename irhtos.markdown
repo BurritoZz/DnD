@@ -17,19 +17,19 @@
 
 | Skill           | Prof. | Mod. |  | Attack                            | Modifier  | Damage                          | Extra effects                                                                | charge |
 | --------------- | ----- | ---- |  | --------------------------------- | --------- | ------------------------------- | ---------------------------------------------------------------------------- | ------ |
-| Acrobatics      | X     | +5   |  | Unarmed Strike                    | Dex. +1   | 1d8 + Dex. +1 Bl.               | N/A                                                                          |        |
-| Animal Handling |       | +4   |  | Bite                              | Str. +1   | 1d8 + Str. +1 Pi.               | N/A                                                                          |        |
+| Acrobatics      | X     | +5   |  | Unarmed Strike                    | Dex. +1   | 1d8 +1 + Dex. Bl.               | N/A                                                                          |        |
+| Animal Handling |       | +4   |  | Bite                              | Str. +1   | 1d8 +1 + Str. Pi.               | N/A                                                                          |        |
 | Arcana          |       | +0   |  | Shortsword                        | Dex.      | 1d8 + Dex. Sl.                  | N/A                                                                          |        |
 | Athletics       |       | +1   |  | Dart                              | Dex.      | 1d4 + Dex. Pi. 20/60 ft.        | N/A                                                                          |        |
-| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex. +1   | 1d8 + Dex. +1 Bl.               | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 6/8    |
+| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex. +1   | 1d8 +1 + Dex. Bl.               | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 8/8    |
 | History         |       | +0   |
-| Insight         | X     | +4   |
-| Intimidation    |       | +2   |
-| Investigation   |       | +0   |
-| Medicine        |       | +4   |
-| Nature          |       | +0   |
-| Perception      | X     | +4   |
-| Performance     | X     | +2   |
+| Insight         | X     | +4   |  | Potion bag     | Strength | Quality | Amount | Effect                      | Duration        |
+| Intimidation    |       | +2   |  | -------------- | -------- | ------- | ------ | --------------------------- | --------------- |
+| Investigation   |       | +0   |  | Improve Health | Normal   | Normal  | 5      | 40 Temp. HP, -2 Con         | 1 min, 2 hours  |
+| Medicine        |       | +4   |  | Regenerate     | Normal   | Normal  | 5      | 8 HP regen per turn, -2 Con | 1 min, 2 hours  |
+| Nature          |       | +0   |  | Power          | Normal   | Normal  | 3      | 2nd lvl. spellslot, -2 Con  | 1 hour, 2 hours |
+| Perception      | X     | +4   |  | Mindshield     | Normal   | Normal  | 2      | +2 Wis, -2 Con              | 1 hour, 2 hours |
+| Performance     | X     | +2   |  | Strength       | Normal   | Normal  | 1      | +2 Str, -2 Con              | 1 hour, 2 hours |
 | Persuasion      |       | +2   |
 | Religion        |       | +0   |
 | Sleight of Hand | X     | +5   |
@@ -38,8 +38,8 @@
 
 | Equipment                    |  | Proficiencies        |  | Money | Amount |
 | ---------------------------- |  | -------------------- |  | ----- | ------ |
-| Shortsword                   |  | Common (Cannot read) |  | CP.   | 08     |
-| 10 darts                     |  | Draconic             |  | SP.   | 05     |
+| Shortsword                   |  | Common (Cannot read) |  | CP.   | 07     |
+| 10 darts                     |  | Draconic             |  | SP.   | 04     |
 | "Fire and Ice" Brass knucles |  | Simple weapons       |  | GP.   | 48     |
 | Ring of comprehend languages |  | Shortswords          |  | PP.   | 319    |
 | Insignia of claws            |  | Thieves' tools       |
@@ -96,3 +96,4 @@
 | Fancy messenger pants (more like underwear)                                                       |
 | Two books containing a detailed description of the northern region (tombs, old cities etc.)       |
 | Gold crown                                                                                        |
+| Winter coat                                                                                       |
