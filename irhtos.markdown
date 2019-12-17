@@ -8,7 +8,7 @@
 
 | Attributes   | Score   | Saving throw |  | Total HP | Current HP | Temp HP | Hit dice   | Exhaustion |
 | ------------ | ------- | ------------ |  | -------- | ---------- | ------- | ---------- | ---------- |
-| Strength     | 12 (+1) | X            |  | 103      | 103        | 00      | 10 d8 (10) | 0          |
+| Strength     | 12 (+1) | X            |  | 033      | 103        | 00      | 10 d8 (10) | 0          |
 | Dexterity    | 20 (+5) | X            |
 | Constitution | 18 (+4) |              |  | Successes | Failures |
 | Intelligence | 11 (+0) |              |  | --------- | -------- |
@@ -21,7 +21,7 @@
 | Animal Handling |       | +4   |  | Bite                              | Str. +1   | 1d8 +1 + Str. Pi.               | N/A                                                                          |        |
 | Arcana          |       | +0   |  | Shortsword                        | Dex.      | 1d8 + Dex. Sl.                  | N/A                                                                          |        |
 | Athletics       |       | +1   |  | Dart                              | Dex.      | 1d4 + Dex. Pi. 20/60 ft.        | N/A                                                                          |        |
-| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex. +1   | 1d8 +1 + Dex. Bl.               | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 8/8    |
+| Deception       |       | +2   |  | "Fire and Ice" Brass knucles      | Dex. +1   | 1d8 +1 + Dex. Bl.               | Use 2 charges for 1d6 fire or ice extra, recharge 1 charge on unarmed strike | 2/8    |
 | History         |       | +0   |
 | Insight         | X     | +4   |  | Potion bag     | Strength | Quality | Amount | Effect                      | Duration        |
 | Intimidation    |       | +2   |  | -------------- | -------- | ------- | ------ | --------------------------- | --------------- |
@@ -36,20 +36,21 @@
 | Stealth         | X     | +5   |
 | Survival        | X     | +4   | Passive perception: 18
 
-| Equipment                    |  | Proficiencies        |  | Money | Amount |
-| ---------------------------- |  | -------------------- |  | ----- | ------ |
-| Shortsword                   |  | Common (Cannot read) |  | CP.   | 07     |
-| 10 darts                     |  | Draconic             |  | SP.   | 04     |
-| "Fire and Ice" Brass knucles |  | Simple weapons       |  | GP.   | 48     |
-| Ring of comprehend languages |  | Shortswords          |  | PP.   | 319    |
-| Insignia of claws            |  | Thieves' tools       |
-|                              |  | Disguise kit         |
-|                              |  | Woodcarvers' tools   |
-|                              |  | Brewers' supplies    |
+| Equipment                              |  | Proficiencies        |  | Money | Amount |
+| -------------------------------------- |  | -------------------- |  | ----- | ------ |
+| Shortsword                             |  | Common (Cannot read) |  | CP.   | 07     |
+| 10 darts                               |  | Draconic             |  | SP.   | 04     |
+| "Fire and Ice" Brass knucles           |  | Simple weapons       |  | GP.   | 48     |
+| Ring of comprehend languages           |  | Shortswords          |  | PP.   | 319    |
+| Insignia of claws                      |  | Thieves' tools       |
+| Winter coat                            |  | Disguise kit         |
+| Gold crown                             |  | Woodcarvers' tools   |
+| Fancy messenger pants (underwear size) |  | Brewers' supplies    |
+| Fancy messenger crop top               |
 
 | Ki points | Ki save DC. |
 | --------- | ----------- |
-| 09/11     | 16          |
+| 04/11     | 16          |
 
 | Ki features      | Ki cost | When              | Effect                                                     |  | Properties                                        |
 | ---------------- | ------- | ----------------- | ---------------------------------------------------------- |  | ------------------------------------------------- |
@@ -92,8 +93,8 @@
 | Toga                                                                                              |
 | 8 green gemstones                                                                                 |
 | Brass trumpet                                                                                     |
-| Fancy messenger crop-top                                                                          |
-| Fancy messenger pants (more like underwear)                                                       |
 | Two books containing a detailed description of the northern region (tombs, old cities etc.)       |
-| Gold crown                                                                                        |
-| Winter coat                                                                                       |
+| 3 big cylindrical carapace sections                                                               |
+| 2 round carapace pieces                                                                           |
+| Metal bottle with screwcap                                                                        |
+| Carapace top hat                                                                                  |
